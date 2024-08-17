@@ -940,6 +940,7 @@ dependencies = [
  "reqwest 0.12.5",
  "scraper",
  "serenity",
+ "tokio",
 ]
 
 [[package]]
